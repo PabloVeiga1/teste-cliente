@@ -44,7 +44,7 @@ img{
         color:white;
     }
 }
-button{
+a{
     background-color: yellow;
     border: none;
     padding: 20px 20px;
@@ -60,7 +60,7 @@ button{
     transform: translate(-50%);
     transition: ease-in-out 0.3s;
 }
-button:hover{
+a:hover{
     background-color: rgb(94, 94, 94);
     cursor: pointer;
     color: white;
@@ -74,7 +74,4 @@ button:hover{
 a{
     text-decoration: none;
     color: black;
-    font-weight: 700;
-    transition: ease-in-out 0.3s;
-    padding: 20px;
 }
